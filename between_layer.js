@@ -4,6 +4,6 @@ const saveName = () => {
 }
 
 const redirect = () => {
-    window.location = "index.html";
+    window.location = "game.html"
 }
 
